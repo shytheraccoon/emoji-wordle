@@ -1,7 +1,10 @@
 {
-  "name": "wordle-react",
+  "name": "emoji-wordle",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "A Wordle-style guessing game that uses emoji clues instead of letters.",
+  "author": "Marco Alba (shytheraccoon)",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
