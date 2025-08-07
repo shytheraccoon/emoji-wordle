@@ -13,7 +13,7 @@ You get 5 guesses, and with each wrong guess, more emojis are revealed.
 
 ## 🚀 Demo
 
-(You can add a Netlify link here once deployed!)
+Try the game live here: [Emoji Wordle Live](https://emoji-wordle.netlify.app/)
 
 ## 🛠️ Tech Stack
 
@@ -38,4 +38,4 @@ npm run dev
 ---
 
 ✍️ Author  
-Marco Alba — [shytheraccoon](https://github.com/shytheraccoon)
+Marco Alba ([@shytheraccoon](https://github.com/shytheraccoon))
