@@ -115,7 +115,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Movie & Book Wordle</h1>
+      <h1>Emoji Wordle</h1>
       <p className="subtitle">Guess the Movie, Book, or Character</p>
       <div className="emoji-hints">
         {currentEmojis.map((emoji, index) => (
